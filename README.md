@@ -23,5 +23,5 @@ cd ../backend
 
 Make sure whenever you are developing, do it in your own branch, not the main branch.
 To switch to your branch using git:
-git branch yourBranchName (e.g. git branch Manish). Do this command if you do not have your branch.
-git checkout yourBranchName
+1. git branch yourBranchName (e.g. git branch Manish). Do this command if you do not have your branch.
+2. git checkout yourBranchName
