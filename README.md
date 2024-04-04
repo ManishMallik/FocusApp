@@ -20,3 +20,8 @@ cd ../frontend
 
 As for the other way around, run the following:
 cd ../backend
+
+Make sure whenever you are developing, do it in your own branch, not the main branch.
+To switch to your branch using git:
+git branch yourBranchName (e.g. git branch Manish). Do this command if you do not have your branch.
+git checkout yourBranchName
