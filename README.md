@@ -20,6 +20,35 @@ Mentis (tentative name) is an educational app that limits doom scrolling on Inst
 - Having difficulty levels, where user can choose between MC, free response, or both
 - Summarizing user's progress, results, etc.
 
+# Tech Stack:
+Front End:
+- ReactNative
+- Figma
+
+Back End:
+- Python (flask)
+
+Database: 
+- Firebase Firestore
+
+Social Media Integration:
+- Instagram Graph API
+- OAuth Libraries
+- Apple Screen Time API
+  - Block apps
+
+User management:
+- AuthO
+- Firebase Integration
+
+Notification Services:
+- Apple Push Notification Service (APNs)
+- Google Cloud Messaging
+- Firebase Cloud Messaging REST API
+
+# Modulearn
+https://github.com/Taoula/modulearn
+
 # Directions to Run Frontend
 To run the frontend, make sure you are in the following directory:
 yourDirectory\FocusApp\frontend>
